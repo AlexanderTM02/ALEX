@@ -1,3 +1,3 @@
-# help
+# hello BSIT 2-2
 
-AAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHH
+first repository yay
